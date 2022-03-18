@@ -9,7 +9,7 @@ This repository contains all the tests run by <a href="https://socialeo.net"><im
 
 Each folder is named after the coding style errors it contains.<br />
 A folder might be divided into more folders has each folder should contain ONE test.<br />
-Be sure that your test file is reporting ONE and ONLY ONE type of coding style error, has if not the case, it will be reported as OK wheras it should'nt.
+Be sure that your test file is reporting ONE and ONLY ONE type of coding style error, has if not the case, it will be reported as OK wheras it should'nt. Be sure to have a correct EPITECH's header.
 
 ⚠️ We are testing the fact that Abricot is not reporting a coding style error whereas it should be !
 
