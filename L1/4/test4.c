@@ -10,6 +10,7 @@ int test(int argc)
     int a = 0;
     int b = 0;
     int c = 0;
+
     if (cond) return (ptr);
     if (argc == 1)
         return (84);
