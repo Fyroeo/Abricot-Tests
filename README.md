@@ -16,5 +16,5 @@ Be sure that your test file is reporting ONE and ONLY ONE type of coding style e
 
 # Will my contribution be automatically added to Jenkins ?
 
-Yes, when a contribution is made in the Abricot-Norminette project!
+Yes, when a contribution is made in the Abricot-Norminette project! <br />
 PS: You need to add your contribution in the Jenkinsfile of Abricot-Norminette for your test to be run !
