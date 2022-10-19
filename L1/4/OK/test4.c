@@ -11,6 +11,8 @@ int test(int argc)
     int b = 0;
     int c = 0;
 
+    if (1 == 1)
+        return (8);
     if (argc == 1)
         return (84);
     pushswap(argc, argv);
