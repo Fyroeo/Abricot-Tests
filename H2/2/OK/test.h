@@ -40,4 +40,4 @@ typedef struct {
     WINDOW *score;
 } pannel_t;
 
-#endif
+#endif /* !STRUCT_H_ */
