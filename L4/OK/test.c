@@ -8,8 +8,7 @@
 #include "../includes/pushswap.h"
 
 int test(char *thomas){
-    if (thomas[bg] == "yes")
-    {
+    if (thomas[bg] == "yes") {
         printf("sex");
     }
 }
