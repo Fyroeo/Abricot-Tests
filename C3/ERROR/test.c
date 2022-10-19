@@ -14,4 +14,3 @@ int test(void)
     test:
         printf("test");
 }
-

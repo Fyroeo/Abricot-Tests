@@ -11,5 +11,3 @@
 void action_s(list_t **list);
 
 #endif /* !PUSHSWAP_H_ */
-
-

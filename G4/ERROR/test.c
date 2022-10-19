@@ -8,4 +8,3 @@
 #include "../includes/pushswap.h"
 
 int test = 0;
-

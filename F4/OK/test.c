@@ -16,4 +16,3 @@ int function_1(void)
     int m = 0;
     int n = 0;
 }
-

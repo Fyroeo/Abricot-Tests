@@ -8,4 +8,3 @@
 #include "../includes/pushswap.h"
 
 const int test = 0;
-

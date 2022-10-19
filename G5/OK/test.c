@@ -6,4 +6,3 @@
 */
 
 #include "../includes/pushswap.h"
-

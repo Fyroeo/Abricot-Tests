@@ -36,4 +36,3 @@ int function_6(void)
 {
     return 0;
 }
-

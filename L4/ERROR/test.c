@@ -13,4 +13,3 @@ int test(char *thomas){
         printf("sex");
     }
 }
-

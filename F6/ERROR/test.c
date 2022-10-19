@@ -12,4 +12,3 @@ int function_1()
     //print cc
     printf("cc");
 }
-

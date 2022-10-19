@@ -11,4 +11,3 @@ int Function_1(void)
 {
     return 0;
 }
-

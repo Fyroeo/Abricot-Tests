@@ -78,4 +78,3 @@ int function_1(void)
     int bw = 0;
     int bx = 0;
 }
-

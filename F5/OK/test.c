@@ -11,4 +11,3 @@ int function_1(int 1, int 2, int 3)
 {
     printf("cc");
 }
-

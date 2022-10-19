@@ -11,4 +11,3 @@ int function_1(void)
 {
     printf("Cette phrase est très courte et agréable à lire :)");
 }
-

@@ -11,4 +11,3 @@ int test(void)
 {
     printf("test");
 }
-
