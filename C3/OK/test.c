@@ -9,9 +9,6 @@
 
 int test(void)
 {
-    goto test;
-
-    test:
-        printf("test");
+    printf("test");
 }
 
