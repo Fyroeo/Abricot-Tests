@@ -5,5 +5,5 @@
 ** PushSwap
 */
 
-#include "../includes/pushswap.h" 
+#include "../includes/pushswap.h"
 
