@@ -6,7 +6,7 @@
 */
 
 #ifndef PUSHSWAP_H_
-#define PUSHSWAP_H_
+    #define PUSHSWAP_H_
 
 void action_s(list_t **list);
 
