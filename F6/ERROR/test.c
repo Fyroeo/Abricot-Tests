@@ -7,7 +7,7 @@
 
 #include "../includes/pushswap.h"
 
-int function_1(void)
+int function_1()
 {
     //print cc
     printf("cc");
