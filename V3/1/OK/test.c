@@ -9,5 +9,5 @@
 
 int function_1(void)
 {
-    int* a;
+    int *a;
 }

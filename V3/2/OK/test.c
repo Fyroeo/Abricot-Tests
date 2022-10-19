@@ -11,5 +11,5 @@ int function_1(int b)
 {
     int *a;
 
-    a = b * 5 * * a;
+    a = b * 5 * *a;
 }
