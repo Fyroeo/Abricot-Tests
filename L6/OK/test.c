@@ -10,6 +10,5 @@
 int test(void)
 {
     printf("Testing");
-
     printf("Testing");
 }
