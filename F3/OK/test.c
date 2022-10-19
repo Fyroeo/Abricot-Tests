@@ -9,6 +9,6 @@
 
 int function_1(void)
 {
-    printf("Cette phrase est incroyablement longue et ennuyeuse afin de dépasser la limite des 80 colonnes du coding style :)");
+    printf("Cette phrase est très courte et agréable à lire :)");
 }
 
