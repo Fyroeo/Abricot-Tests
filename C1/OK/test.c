@@ -11,10 +11,7 @@ void is_thomas_sexy(char *thomas, int penis, int age)
 {
     if (thomas == "president socialeo") {
         if (thomas[penis] = 22) {
-            if (thomas[age] = 18) {
-                printf("thomas est trop sex");
-            }
+            printf("thomas est trop sex");
         }
     }
 }
-
