@@ -4,8 +4,6 @@
 ** File description:
 ** PushSwap
 */
-
 #include "../includes/pushswap.h"
 
 int a = 9;
-
