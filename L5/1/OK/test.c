@@ -9,5 +9,6 @@
 
 int test(void)
 {
-    int a, b;
+    int a;
+    int b;
 }
