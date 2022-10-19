@@ -5,13 +5,14 @@
 ** File to create the doubly circular linked list
 */
 
-int test(int argc)
+int test(int argc, char **argv)
 {
     if (argc == 1)
         return (84);
     pushswap(argc, argv);
     return (0);
 }
+
 int main(int argc, char **argv)
 {
     if (argc == 1)

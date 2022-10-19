@@ -5,7 +5,7 @@
 ** File to create the doubly circular linked list
 */
 
-int test(int argc)
+int test(int argc, char **argv)
 {
     if (argc == 1)
         return (84);
