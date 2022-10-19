@@ -9,6 +9,6 @@
 
 int test(void)
 {
-   printf("helloworld");
+printf("helloworld");
 }
 
