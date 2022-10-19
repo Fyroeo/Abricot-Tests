@@ -1,6 +1,13 @@
 /*
-** EPITECH PROJECT, 2021
-** B-CPE-110-LYN-1-1-pushswap-thomas.mazaud
-** File description zbeubbzueb:
-** File to create the doubly circular linked list
+** EPITECH PROJECT , $YEAR
+** $NAME_OF_THE_PROJECT
+** File description :
+** No file there , just an epitech header example .
+** You can even have multiple lines if you want !
 */
+
+int main(int argc, char const *argv[])
+{
+    int i = 0;
+    return 0;
+}
