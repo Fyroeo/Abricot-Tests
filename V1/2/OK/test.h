@@ -12,6 +12,6 @@
     #include <stdlib.h>
     #include <unistd.h>
 
-    typedef int age;
+    typedef int age_t;
 
 #endif /* !TEST_H_ */

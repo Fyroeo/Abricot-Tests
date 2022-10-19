@@ -17,6 +17,6 @@
         int data;
         struct list *next;
         struct list *prev;
-    } list;
+    } list_t;
 
 #endif /* !TEST_H_ */

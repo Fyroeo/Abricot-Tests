@@ -13,7 +13,7 @@
     #include <unistd.h>
 
     enum arch {
-        i386 = 0,
+        I386 = 0,
         x64,
         ARM64,
     };
