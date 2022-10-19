@@ -7,5 +7,5 @@
 
 #include "../includes/pushswap.h"
 
-int test = 0;
+const int test = 0;
 
