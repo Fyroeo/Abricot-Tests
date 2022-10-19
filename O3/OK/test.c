@@ -26,14 +26,3 @@ int function_4(void)
 {
     return 0;
 }
-
-int function_5(void)
-{
-    return 0;
-}
-
-int function_6(void)
-{
-    return 0;
-}
-
