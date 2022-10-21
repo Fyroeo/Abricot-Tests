@@ -7,7 +7,8 @@
 
 #include "../includes/pushswap.h"
 
-int test(char *thomas){
+int test(char *thomas)
+{
     if (thomas[bg] == "yes") {
         printf("sex");
     }

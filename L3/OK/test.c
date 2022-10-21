@@ -9,5 +9,5 @@
 
 int test(void)
 {
-    for (int i = 3 ; i > 5; i++);
+    for (int i = 3; i > 5; i++);
 }

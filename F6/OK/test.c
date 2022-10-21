@@ -9,6 +9,5 @@
 
 int function_1(void)
 {
-    //print cc
     printf("cc");
 }

@@ -1,9 +1,8 @@
 ##
-## EPITECH PROJECT , $YEAR
-## $NAME_OF_THE_PROJECT
-## File description :
-## No file there , just an epitech header example .
-## You can even have multiple lines if you want !
+## EPITECH PROJECT, 2022
+## Abricot-Tests [WSL : Ubuntu]
+## File description:
+## Makefile
 ##
 
 # define the C compiler to use

@@ -6,4 +6,4 @@
 */
 #include "../includes/pushswap.h"
 
-int a = 9;
+const int a = 9;

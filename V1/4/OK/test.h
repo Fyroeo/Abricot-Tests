@@ -12,6 +12,6 @@
     #include <stdlib.h>
     #include <unistd.h>
 
-    #define hello "salut"
+    #define HELLO "salut"
 
 #endif /* !TEST_H_ */
