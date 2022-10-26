@@ -7,7 +7,7 @@
 
 #include "../includes/pushswap.h"
 
-int Function_1(void)
+int main(void)
 {
     return 0;
 }
